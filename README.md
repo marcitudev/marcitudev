@@ -1,6 +1,12 @@
 ### Olá! Eu sou Márcio Costa! 👋
 
-<div>
+🌵 Paraibano arretado <br>
+❤️ Amo futebol, sou flamenguista🖤❤️ desde pequenininho. Amo também jogos, músicas, filmes, séries, livros e um monte de outras coisas <br>
+🤓 Sou graduando em licenciatura em Ciência da Computação pela Universidade Federal da Paraíba
+
+##
+
+<div width="100%">
   <a href="https://github.com/marcitudev">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcitudev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcitudev&layout=compact&langs_count=7&theme=dracula"/>
