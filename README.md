@@ -2,7 +2,7 @@
 
 🌵 Paraibano arretado <br>
 ❤️ Amo futebol, sou flamenguista🖤❤️ desde pequenininho. Amo também jogos, músicas, filmes, séries, livros e um monte de outras coisas <br>
-🤓 Sou graduando em licenciatura em Ciência da Computação pela Universidade Federal da Paraíba
+🤓 Sou graduando em licenciatura em Ciência da Computação pela Universidade Federal da Paraíba <br>
 👨🏻‍💻 Atualmente trabalho como treinee na Virtus, instituição vinculada à Universidade Federal de Campina Grande
 
 <div> 
