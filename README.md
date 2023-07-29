@@ -2,7 +2,7 @@
 
 🌵 Paraibano arretado <br>
 ❤️ Amo futebol, sou flamenguista🖤❤️ desde pequenininho. Amo também jogos, músicas, filmes, séries, livros e um monte de outras coisas <br>
-🤓 Sou graduando em licenciatura em Ciência da Computação pela Universidade Federal da Paraíba <br>
+🤓 Sou graduado em licenciatura em Ciência da Computação pela Universidade Federal da Paraíba <br>
 👨🏻‍💻 Atualmente trabalho como Analista de Desenvolvimento de Software I na <b><a href="https://www.fit-tecnologia.org.br" target="_blank">FIT - Instituto de Tecnologia</a></b>
 
 <div> 
