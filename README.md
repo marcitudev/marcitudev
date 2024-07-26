@@ -7,7 +7,7 @@
   
 🤓 Sou graduado em licenciatura em Ciência da Computação pela Universidade Federal da Paraíba <br>
 👨🏻‍💻 Atualmente trabalho como Analista de Desenvolvimento de Software II na <b><a href="https://www.fit-tecnologia.org.br" target="_blank">FIT - Instituto de Tecnologia</a></b> <br>
-✨ Meus interesses atuais como desenvolvedor são ampliar a minha gama de conhecimento no desenvolvimento web, usando tecnologias como Angular, Typescript, NodeJS, entre outras e desenvolver habilidades liderança.
+✨ Meus interesses atuais como desenvolvedor são ampliar a minha gama de conhecimento no desenvolvimento web, usando tecnologias como Angular, Typescript, NodeJS, entre outras e desenvolver habilidades de liderança.
 
 <div> 
   <a href="https://instagram.com/marciocosta_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
