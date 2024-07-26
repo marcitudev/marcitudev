@@ -1,9 +1,12 @@
-### Olá! Eu sou Márcio Costa! 👋
+### Seja bem-vindo(a)! Me chamo Márcio! 👋
 
-🌵 Paraibano arretado <br>
-❤️ Amo futebol, sou flamenguista🖤❤️ desde pequenininho. Amo também jogos, músicas, filmes, séries, livros e um monte de outras coisas <br>
+🌵 Nascido e criado no interior da Paraíba, sou nordestino com muito orgulho <br>
+❤️ As minhas paixões são o futebol e os jogos eletrônicos (games). 
+- Meu coração é rubro-negro e levo comigo o grito, a força e a paixão de ser flamenguista. 🖤❤️
+- No meu tempo livre gosto de viajar no mundo dos jogos eletrônicos e me imergir na história orquestrada que os jogos conseguem me proporcionar. 🎮 Meus jogos favoritos são: Death Stranding, God of War e Red Dead Redemption.
 🤓 Sou graduado em licenciatura em Ciência da Computação pela Universidade Federal da Paraíba <br>
 👨🏻‍💻 Atualmente trabalho como Analista de Desenvolvimento de Software II na <b><a href="https://www.fit-tecnologia.org.br" target="_blank">FIT - Instituto de Tecnologia</a></b>
+✨ Meus interesses atuais como desenvolvedor é ampliar a minha gama de conhecimento no desenvolvimento web, usando tecnologias como Angular, Typescript, NodeJS, entre outras.
 
 <div> 
   <a href="https://instagram.com/marciocosta_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
